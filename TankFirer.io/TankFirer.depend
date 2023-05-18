@@ -1,0 +1,94 @@
+# depslib dependency file v1.0
+1683640560 source:e:\tankfirer.io\renderwindow.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+
+1683640858 e:\tankfirer.io\renderwindow.hpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Entity.hpp"
+
+1682500391 e:\tankfirer.io\entity.hpp
+	<SDL.h>
+	<SDL_image.h>
+
+1683708924 source:e:\tankfirer.io\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<math.h>
+	<ctime>
+	<string>
+	<vector>
+	<utility>
+	<cstdlib>
+	<windows.h>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+	"Utils.hpp"
+	"Bullet.hpp"
+	"PowerUp.hpp"
+
+1682500477 source:e:\tankfirer.io\entity.cpp
+	"Entity.hpp"
+	<SDL.h>
+	<SDL_image.h>
+	<math.h>
+
+1677940901 source:e:\tankfirer.io\math.cpp
+
+1677944333 source:e:\tankfirer.io\utils.cpp
+
+1680604322 e:\tankfirer.io\utils.hpp
+	<SDL.h>
+
+1683640962 source:e:\tankfirer.io\bullet.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<math.h>
+	"Bullet.hpp"
+	"Entity.hpp"
+
+1683640861 e:\tankfirer.io\bullet.hpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"Entity.hpp"
+
+1681921804 source:e:\tankfirer.io\tilemap.cpp
+	<SDL.h>
+	"TileMap.hpp"
+	"RenderWindow.hpp"
+	<vector>
+
+1681921804 e:\tankfirer.io\tilemap.hpp
+	<SDL.h>
+	"RenderWindow.hpp"
+	<vector>
+
+1682045446 source:e:\tankfirer.io\objectgame.cpp
+	"ObjectGame.hpp"
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<cmath>
+
+1682045445 e:\tankfirer.io\objectgame.hpp
+	"Entity.hpp"
+	"Bullet.hpp"
+	"RenderWindow.hpp"
+	<vector>
+
+1682348759 source:e:\tankfirer.io\powerup.cpp
+	"PowerUp.hpp"
+
+1683472095 e:\tankfirer.io\powerup.hpp
+	"Entity.hpp"
+	<random>
+

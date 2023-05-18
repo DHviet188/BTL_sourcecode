@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1677212521 source:e:\testsdl\main.cpp
+	<iostream>
+	<SDL.h>
+
+1677769559 source:e:\tankfirer.io\entity.cpp
+	"Entity.hpp"
+	<SDL.h>
+	<SDL_image.h>
+
+1677810466 e:\tankfirer.io\entity.hpp
+	<SDL.h>
+	<SDL_image.h>
+
+1677820303 source:e:\tankfirer.io\main.cpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+
+1677820317 e:\tankfirer.io\renderwindow.hpp
+	<iostream>
+	<SDL.h>
+	<SDL_image.h>
+	"Entity.hpp"
+
+1677820339 source:e:\tankfirer.io\renderwindow.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	"RenderWindow.hpp"
+	"Entity.hpp"
+
